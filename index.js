@@ -4,6 +4,6 @@ var fetch = require('node-fetch')
 
 setInterval(async() => {
   await fetch('https://legitcoders.glitch.me')
-}, 180 * 1000)
+}, 128 * 1000)
 
 app.listen(3000)
